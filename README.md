@@ -1,6 +1,9 @@
 # micropython_ps2_controller
-Library for PS1/PS2 controllers (joysticks)
+Library for PS1/PS2 controllers (joysticks).
 
+Here is a good explanation of how the PS2 controller works: https://store.curiousinventor.com/guides/PS2/
+
+# Pinout
 ![Image](./photos/ps2-pins.png)
 
 # Code example:
